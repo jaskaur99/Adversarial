@@ -8,9 +8,9 @@ Adversarial attacks pose significant threats to the reliability and security of 
 
 ## Contents
 
-- `notebooks/`: Contains Jupyter Notebooks (`*.ipynb`) for a more interactive exploration of the code and experiments.
-- `data/`: Contains the datasets used in the experiments, including CIFAR-10 and TinyImageNet.
-- `results/`: Stores the results of the experiments, including accuracy metrics, error rates, and visualizations.
+- `Code/`: Contains Jupyter Notebooks (`*.ipynb`) for a more interactive exploration of the code and experiments.
+- `data/`: Contains the datasets and models used in the experiments.
+- `Reprt/`: Stores the final report which contains results of the experiments, including accuracy metrics, error rates, and visualizations.
 - `README.md`: You are here! This file provides an overview of the project, instructions for running the code, and guidelines for interpreting the results.
 
 ## Getting Started
